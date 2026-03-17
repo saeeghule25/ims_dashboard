@@ -18,7 +18,7 @@ def get_connection():
         connection = mysql.connector.connect(
             host="localhost",
             user="root",
-            password="saee@272A",  # CHANGE THIS
+            password="",  # CHANGE THIS
             database="internship_management",
             port=3306
         )
