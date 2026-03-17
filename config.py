@@ -11,7 +11,7 @@ from mysql.connector import Error
 DB_CONFIG = {
     'host': 'localhost',           # MySQL server address
     'user': 'root',                 # MySQL username
-    'password': 'saee@272A',    # ⚠️ CHANGE THIS to your MySQL password
+    'password': '',    # ⚠️ CHANGE THIS to your MySQL password
     'database': 'internship_management',
     'port': 3306,                    # MySQL default port
     'raise_on_warnings': True
